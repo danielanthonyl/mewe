@@ -2,7 +2,7 @@ English:
 
 This is a very simple Vanilla Javascript live chat project of mine using the socket.io library that you can find here: https://socket.io
 
-## the up and running webpage can be found here: http://mewe.herokuapp.com
+the up and running webpage can be found here: http://mewe.herokuapp.com
 
 Portuguese:
 
